@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Alan Freitas 👋
 
-<!--
-**freitasbr01/freitasbr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
 
-Here are some ideas to get you started:
+I'm a Web Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current stack
+- Main language: `JavaScript`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
+- Version code control: `Git & Github`
+- Tools: `VsCode`, `Markdown`
+
+#### Contacts
+
+- Email: freitasbr01@gmail.com
+- Linkedin: https://www.linkedin.com/in/alanfreitasbr01/
