@@ -7,6 +7,7 @@ I'm a Web Developer.
 #### Current stack
 - Main language: `JavaScript`
 - Frontend: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
+- Backend: `NodeJS`
 - Version code control: `Git & Github`
 - Tools: `VsCode`, `Markdown`
 
