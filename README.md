@@ -12,6 +12,12 @@ Olá! 👋 Embarquei na minha jornada como desenvolvedor há um ano e desde ent�
 ## Projetos
 Para ver todos os meus projetos, acesse <a href="https://github.com/freitasbr01?tab=repositories">meus repositórios</a>.
 
+## Portfólio
+Para acessar meu portfólio, <a href="https://alanfreitas.netlify.app/">Clique aqui</a>.
+
+
+
+
 ## Entre em contato
 
 Estou animado em poder compartilhar os meus projetos e caso você deseje discutir colaborações, projetos ou oportunidades na área de desenvolvimento web, estou à disposição para batermos um papo.
