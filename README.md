@@ -3,9 +3,9 @@
 Olá! 👋 Embarquei na minha jornada como desenvolvedor há um ano e desde então tenho me dedicado ao aprendizado em programação. Nesse repositório compartilho não apenas meus projetos mais recentes, mas também minha evolução e aprendizados ao longo dessa jornada. Aqui você encontrará uma coleção dos meus melhores trabalhos até agora, ilustrando minhas habilidades e experiências até o momento. 
 
 ## Tech stack
-- Language: `JavaScript`
-- Frontend: `Reactjs`, `HTML5`, `CSS3`
-- Backend: `NodeJS`, `SQL`
+- Language: `JavaScript`, `TypeScript`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`, `WordPress CMS`
+- Backend: `NodeJS`, `Express`, `SQL`
 - Version code control: `Git & Github`
 - Tools: `VsCode`, `Markdown`, `Beekeeper`, `Insomnia`
 
