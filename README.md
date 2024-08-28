@@ -4,7 +4,7 @@ Olá! 👋 Embarquei na minha jornada como desenvolvedor há um ano e desde ent�
 
 ## Tech stack
 - Language: `JavaScript`, `TypeScript`
-- Frontend: `Reactjs`, `HTML5`, `CSS3`, `WordPress CMS`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`, `WordPress com CMS`
 - Backend: `NodeJS`, `Express`, `SQL`
 - Version code control: `Git & Github`
 - Tools: `VsCode`, `Markdown`, `Beekeeper`, `Insomnia`
