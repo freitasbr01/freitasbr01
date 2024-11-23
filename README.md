@@ -7,7 +7,7 @@ Olá! 👋 Embarquei na minha jornada como desenvolvedor há um ano e desde ent�
 - Frontend: `Reactjs`, `HTML5`, `CSS3`, `WordPress com CMS`
 - Backend: `NodeJS`, `Express`, `SQL`
 - Version code control: `Git & Github`
-- Tools: `VsCode`, `Markdown`, `Beekeeper`, `Insomnia`
+- Tools: `VsCode`, `Markdown`, `Beekeeper`, `Insomnia`, `Docker`
 
 ## Projetos
 Para ver todos os meus projetos, acesse <a href="https://github.com/freitasbr01?tab=repositories">meus repositórios</a>.
