@@ -1,8 +1,9 @@
 ## Alan Freitas 
 
-Hello! 👋
-I am a Full Stack Developer.
-In this repository, I share not only my most recent projects but also my growth and learnings throughout my journey. Here, you will find a collection of my best works, showcasing my skills and experiences accumulated so far.
+Hello! 👋  
+I am a Full Stack Developer.  
+In this repository, I share not only my most recent projects but also my growth and learnings throughout my journey.  
+Here, you will find a collection of my best works, showcasing my skills and experiences accumulated so far.
 
 ## Tech stack
 - Language: `JavaScript`, `TypeScript`
