@@ -1,26 +1,27 @@
 ## Alan Freitas 
 
-Olá! 👋 Embarquei na minha jornada como desenvolvedor há um ano e desde então tenho me dedicado ao aprendizado em programação. Nesse repositório compartilho não apenas meus projetos mais recentes, mas também minha evolução e aprendizados ao longo dessa jornada. Aqui você encontrará uma coleção dos meus melhores trabalhos até agora, ilustrando minhas habilidades e experiências até o momento. 
+Hello! 👋
+I am a Full Stack Developer.
+In this repository, I share not only my most recent projects but also my growth and learnings throughout my journey. Here, you will find a collection of my best works, showcasing my skills and experiences accumulated so far.
 
 ## Tech stack
 - Language: `JavaScript`, `TypeScript`
 - Frontend: `Reactjs`, `HTML5`, `CSS3`, `WordPress com CMS`
-- Backend: `NodeJS`, `Express`, `SQL`
+- Backend: `NodeJS`, `Express`, `Fastify`, `SQL`, `Docker`
 - Version code control: `Git & Github`
-- Tools: `VsCode`, `Markdown`, `Beekeeper`, `Insomnia`, `Docker`
+- Tools: `VsCode`, `Markdown`, `Beekeeper`, `Insomnia`, `Figma`
+- Cloud: `AZ-900`
 
-## Projetos
-Para ver todos os meus projetos, acesse <a href="https://github.com/freitasbr01?tab=repositories">meus repositórios</a>.
+## Projects
+To see all my projects, visit <a href="https://github.com/freitasbr01?tab=repositories">my repositories</a>.
 
-## Portfólio
-Para acessar meu portfólio, <a href="https://alanfreitas.netlify.app/">clique aqui</a>.
-
-
+## Portfolio
+To access my portfolio, <a href="https://alanfreitas.netlify.app/">Click here</a>.
 
 
-## Entre em contato
+## Get in touch
 
-Estou animado em poder compartilhar os meus projetos e caso você deseje discutir colaborações, projetos ou oportunidades na área de desenvolvimento web, estou à disposição para batermos um papo.
+I am excited to share my projects, and if you wish to discuss collaborations, projects, or opportunities in the web development field, I am available for a chat.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alan_Freitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanfreitasbr01/)](https://www.linkedin.com/in/alanfreitasbr01/)
 [![Gmail Badge](https://img.shields.io/badge/-freitasbr01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freitasbr01@gmail.com)](mailto:freitasbr01@gmail.com)
